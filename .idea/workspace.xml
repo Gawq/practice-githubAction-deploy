@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="0b1065be-37cf-49e6-8794-1c7ac22f2e9d" name="Changes" comment="커밋">
+      <change afterPath="$PROJECT_DIR$/../.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/GitHub.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Baekjoon-problems" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mohamco-Alogrithm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Mohamco-CS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-api-documentation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-controller" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-dto" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-exception" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-jdbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-jpa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-mapper" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-testing-junit" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-testing-mock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-testing-slice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-tx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-homework-webflux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-learn-sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-reference-reactor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-reference-spring-security-oauth2-basic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-reference-webflux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-solution-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-solution-spring-data-jpa-ddd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-solution-testing-mock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-solution-testing-slice" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-solution-webflux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-Ai_V1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-Ai_V2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-Ai_V3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-calculator" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-deployment" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-electricitybill" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-fibonacci" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-gugudan" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-lol_program" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-mystorage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-stringify-json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-sprint-youtubesub" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-api-documentation" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-build" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-exception-handle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-hello-spring-security" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-jdbc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-jpa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-reactive" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-reactor" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-service-layer" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-spring-data-jpa" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-spring-security-jwt-basic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-spring-security-oauth2-basic" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-testing" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-tx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../be-template-webflux" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/appspec.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/deploy.sh" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2NwjnagHTFUz03ZbgFQIz5WVWhe" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;javascript.nodejs.core.library.configured.version&quot;: &quot;18.4.0&quot;,
+    &quot;javascript.nodejs.core.library.typings.version&quot;: &quot;18.0.0&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/nak/Documents/GitHub/practice-githubAction-deploy/build.gradle&quot;,
+    &quot;nodejs_interpreter_path&quot;: &quot;node&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
+    &quot;spring.configuration.checksum&quot;: &quot;f905397bb8779907e0eb9f98638ba581&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="PracticeGithubActionDeployApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="practice-githubAction-deploy.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.codestates.practicegithubActiondeploy.PracticeGithubActionDeployApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0b1065be-37cf-49e6-8794-1c7ac22f2e9d" name="Changes" comment="" />
+      <created>1680582206587</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680582206587</updated>
+      <workItem from="1680582207747" duration="250000" />
+      <workItem from="1680582461052" duration="1952000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
