@@ -62,8 +62,8 @@
       <change afterPath="$PROJECT_DIR$/../be-template-testing" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../be-template-tx" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/../be-template-webflux" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/appspec.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/scripts/deploy.sh" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/deploy.sh" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/deploy.sh" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,7 +118,7 @@
       <option name="presentableId" value="Default" />
       <updated>1680582206587</updated>
       <workItem from="1680582207747" duration="250000" />
-      <workItem from="1680582461052" duration="1952000" />
+      <workItem from="1680582461052" duration="2706000" />
     </task>
     <servers />
   </component>
